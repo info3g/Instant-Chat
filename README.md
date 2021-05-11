@@ -16,3 +16,6 @@ Node should be installed, if not the download it from here https://nodejs.org/en
 7. you will see a message in commandline 'listening on localhost:5000'
 8. Open 2 browsers and in each, type http://localhost:5000/ in the url bar.
 9. The Project is Setup Successfully, Start Chatting!!!!   
+
+
+![alt text](https://github.com/[info3g]/[Instant-Chat]/blob/[Master]/InstantChat.png?raw=true)
