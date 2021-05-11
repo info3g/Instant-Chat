@@ -18,4 +18,4 @@ Node should be installed, if not the download it from here https://nodejs.org/en
 9. The Project is Setup Successfully, Start Chatting!!!!   
 
 
-![alt text](https://github.com/[info3g]/[Instant-Chat]/blob/[Master]/InstantChat.png?raw=true)
+![alt text](https://github.com/info3g/Instant-Chat/blob/main/InstantChat.png?raw=true)
